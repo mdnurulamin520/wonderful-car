@@ -1,0 +1,134 @@
+
+
+/* Start Navbar Section */
+.navbar-header a img{width:140px;
+	height:30px}
+.mybtn{padding:2px 2px 4px 4px}
+/* End Navbar Section */
+
+
+
+/* Start jumbooton Section */
+.team-section{background:url('../img/S1.jpg') fixed center}
+.team-section{padding-top:120px;padding-bottom:240px}
+.team-section h1{font-family: 'Pacifico', cursive;margin-top:100px;margin-bottom:20px;text-align:center;color:#15517B}	
+.team-section h2{text-align:center;color:white}	
+/*End jumbooton Section */
+	
+/* Start Details Section */
+.details-section{background:url('../img/water.jpg') }
+.details-section h2{margin-top:80px;text-align:center;color:white}
+.details-section h3{color:#BA2922;padding-bottom:80px;text-align:justify}
+/* End Details Section */
+
+
+
+
+
+/* Start Showroom Section */
+.showroom-section{background-color:#334C3E;padding-bottom:30px;padding-top:20px}
+.showroom-section h2{color:#F2A65B;font-family: 'Vast Shadow', cursive;
+					font-family: 'Fontdiner Swanky', cursive;
+					font-family: 'Sofia', cursive;
+					font-family: 'Faster One', cursive;}
+.col-sm-4{padding-top:20px}
+.col-sm-4 h3{font-family: 'Vast Shadow', cursive;
+					font-family: 'Fontdiner Swanky', cursive;
+					font-family: 'Sofia', cursive;
+					font-family: 'Faster One', cursive; color:#58DB90}
+.col-sm-4 h4{text-align:justify;color:white}
+/* End Shoeroom Section */
+
+
+
+/* Start Modal*/
+.modal-header h4{text-align:center;text-shadow: 2px 2px 8px #FF0000}
+.modal-body{background-color:#D5E097}
+.modal{margin-left:15px}
+/* End Modal*/
+
+
+
+
+/* Start Footer Section */
+.footer
+		{
+			margin-top:-2px;
+			color:#C8C8C8;
+			height:auto;
+			width:100%;
+		}
+		
+.Nurul{background:#A52A2A}
+		
+.con-more
+		{
+			color:#fff; 
+			padding:10px 10px;
+			border-left:3px solid #FCB314;
+			margin:40px 20px;
+		}
+		
+.col-md-4 h6{
+	color:#fff; 
+}
+
+		
+.footer ul li 
+		{
+			letter-spacing:2px;
+			display:block;
+			margin-top:10px;
+			transition:.3s;
+		}
+.footer ul li :hover
+					{
+						color:#FCB314;
+						transition:.3s;
+					}
+.footer ul li a
+				{
+					list-style:none;
+					text-decoration:none;
+					color:#CFCFCF;
+				}
+.twitter:before
+				{
+					content:'\f099';
+					color:#0078D7;
+					font-size:30px;
+					font-family:FontAwesome;
+					transition:.5s;
+					position:relative
+				}
+#foot a .fac:hover{
+	background-color:#3A579D;
+	border-radius: 20px 20px 20px 20px;
+}
+#foot a .twi:hover{
+	background-color:#66ccff;
+	border-radius: 20px 20px 20px 20px;
+}
+#foot a .pin:hover{
+	background-color:#ff0000;
+	border-radius: 20px 20px 20px 20px;
+}
+#foot a .goo:hover{
+	background-color:#0033ff;
+	border-radius: 20px 20px 20px 20px;
+}
+#foot a .you:hover{
+	background-color:#990000;
+	border-radius: 20px 20px 20px 20px;
+}		
+				
+.made{padding-top:20px}		
+.made{padding-bottom:20px}		
+/* End Footer Section */
+
+
+
+
+
+
+

@@ -1,0 +1,239 @@
+
+
+/* Start Navbar Section */
+.navbar-header a img{width:140px;
+	height:30px}
+.mybtn{padding:2px 2px 4px 4px}
+/* End Navbar Section */
+
+
+
+/* Start jumbooton Section */
+.team-section{background:url('../img/SK2.jpg') fixed center}
+.team-section{padding-top:120px;padding-bottom:240px}
+.team-section h1{font-family: 'Pacifico', cursive;margin-top:100px;margin-bottom:20px;text-align:center;color:#15517B}	
+.team-section h2{text-align:center;color:white}	
+/*End jumbooton Section */
+
+
+
+/* Start About Member Section */
+.logo-small {
+      color:#000080;
+      font-size: 50px;
+  }
+ #services{background-color:#DEB887;padding-bottom:15px}
+/* End About Member Section */
+
+
+
+
+
+/* Start  Top Member Section */
+.member-section{background-color:#BDB76B;padding-bottom:20px}
+.member-section h2{margin-top:40px}
+.member{margin-top:20px}
+.card {box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);}
+.card {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+}
+.overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: 97%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+.card:hover .overlay {
+  opacity: 1;
+}
+
+.social-icons ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+}
+.social-icons ul li {
+  float: left;
+  margin-right: 8px;
+}
+.social-icons ul li:last-child {
+  margin-right: 0;
+}
+.social-icons ul li a {
+  color:#fff;
+  padding-top:8px;
+  height: 36px;
+  width: 36px;
+  line-height: 36px;
+  display: block;
+  font-size: 16px;
+  opacity: 0.8;
+}
+.social-icons ul li a:hover {
+  opacity: 1;
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.social-icons ul li a.facebook {
+  background-color: #3b5999;
+}
+.social-icons ul li a.dribbble {
+  background-color: #ff5b92;
+}
+.social-icons ul li a.linkedin {
+  background-color: #036dc0;
+}
+.social-icons ul li a.rss {
+  background-color: #ff6b00;
+}
+/* End  Top Member Section */
+
+
+
+
+/* Start Table Section */
+.table-section{background-color:#ADD8E6;padding-bottom:20px;padding-top:20px}
+.table-section h2{color:parpel;font-family: 'Vast Shadow', cursive;
+					font-family: 'Fontdiner Swanky', cursive;
+					font-family: 'Sofia', cursive;
+					font-family: 'Faster One', cursive;}
+.table-section p{padding-bottom:20px}
+/* End  Table Section */
+
+
+/* Start Contact Section */
+.contact-section{background:url('../img/SK2.jpg') fixed center}
+.contact-section{padding-top:15px;padding-bottom:25px}
+.contact-section h2{color:pink;text-shadow: 2px 2px 4px #000000 }
+.contact{padding-top:15px}
+/* End Contact Section */
+
+
+
+
+/* Start Carousel Section */
+.carousel-section{background:#2ad4a6;padding-top:10px}
+.carousel-section h2{font-family: 'Monoton', cursive;
+							font-family: 'Oleo Script', cursive;
+							font-family: 'Love Ya Like A Sister', cursive;color:#A0522D}
+.carousel-control.right, .carousel-control.left {
+     
+      color:#29e872;
+  }
+.carousel-indicators li {
+      border-color:#f25843;
+  }
+.carousel-indicators li.active {
+      background-color:#17684c;
+  }
+.item h4 {
+      font-size: 19px;
+      line-height: 1.375em;
+      font-weight: 400;
+      font-style: italic;
+      margin: 70px 0;
+  }
+  .item span {
+      font-style: normal;
+  }
+
+/* End Carousel Section */
+
+
+
+
+/* Start Footer Section */
+.footer
+		{
+			margin-top:-2px;
+			color:#C8C8C8;
+			height:auto;
+			width:100%;
+		}
+		
+.Nurul{background:#A52A2A}
+		
+.con-more
+		{
+			color:#fff; 
+			padding:10px 10px;
+			border-left:3px solid #FCB314;
+			margin:40px 20px;
+		}
+		
+.col-md-4 h6{
+	color:#fff; 
+}
+
+		
+.footer ul li 
+		{
+			letter-spacing:2px;
+			display:block;
+			margin-top:10px;
+			transition:.3s;
+		}
+.footer ul li :hover
+					{
+						color:#FCB314;
+						transition:.3s;
+					}
+.footer ul li a
+				{
+					list-style:none;
+					text-decoration:none;
+					color:#CFCFCF;
+				}
+.twitter:before
+				{
+					content:'\f099';
+					color:#0078D7;
+					font-size:30px;
+					font-family:FontAwesome;
+					transition:.5s;
+					position:relative
+				}
+#foot a .fac:hover{
+	background-color:#3A579D;
+	border-radius: 20px 20px 20px 20px;
+}
+#foot a .twi:hover{
+	background-color:#66ccff;
+	border-radius: 20px 20px 20px 20px;
+}
+#foot a .pin:hover{
+	background-color:#ff0000;
+	border-radius: 20px 20px 20px 20px;
+}
+#foot a .goo:hover{
+	background-color:#0033ff;
+	border-radius: 20px 20px 20px 20px;
+}
+#foot a .you:hover{
+	background-color:#990000;
+	border-radius: 20px 20px 20px 20px;
+}		
+				
+.made{padding-top:20px}		
+.made{padding-bottom:20px}		
+/* End Footer Section */
+
+
+
+
+
+
+
+
+

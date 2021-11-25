@@ -1,0 +1,186 @@
+
+/* Start Navbar Section */
+.navbar-header a img{width:140px;
+	height:30px}
+.mybtn{padding:2px 2px 4px 4px}
+/* End Navbar Section */
+
+
+
+/* Start Carousel Section */
+.Carousel{margin-top:30px}
+/* End Carousel Section */
+
+
+
+/* Start Description Section */
+.col-sm-12 h2{text-shadow: 2px 2px 8px #FF0000}
+.col-sm-12 p{padding:20px;text-align:justify;margin-right:25px;background-color:#1e4b95;color:white}
+/* End Description Section */
+
+
+
+/* Start Policy Section */
+.shesher{background-color:rgba(230, 167, 86, 0.9)}
+.policy-section{background:url('../img/Don.jpg') fixed center}
+.policy-section{padding-top:140px;padding-bottom:140px}
+.logo {
+      color:#682572;
+      font-size: 200px;
+  }
+.policy{padding-top:20px;padding-bottom:20px}
+.policy h2{color:black}
+
+.policy h4{font-family: 'Pacifico', cursive;margin-top:40px;margin-bottom:20px;color:#15517B}	
+	
+/*End Policy Section */
+
+
+
+/* Start Brand Section */
+.brand{background-color:#F5DEB3}
+.brand h2{font-family: 'Monoton', cursive;
+							font-family: 'Oleo Script', cursive;
+							font-family: 'Love Ya Like A Sister', cursive;color:#A0522D}
+.col-sm-3 img {
+		border: 6px solid white;
+		border-radius:4px;
+		padding: 5px;
+		
+	}
+.col-sm-3 img:hover {
+		box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+	}
+.col-sm-3 img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+	}
+
+.col-sm-3 h3{color:#6F2A14}
+.col-sm-3 p{padding:20px;text-align:justify}
+/* End Brand Section */
+
+
+
+
+/* Start Client Section */
+.client{background-color:#755252;padding-top:20px}
+.client h2{color:orange;text-shadow: 2px 2px 4px #000000}
+#clients li a img {
+	opacity:0.5;
+	transition:all 0.3s ease-in-out;
+}
+#clients li a img:hover {
+	opacity:1;
+}
+/* End Client Section */
+
+
+
+
+/* Start Promise Section */
+.rahat{background-color:rgba(230, 167, 86, 0.9);padding-top:70px;padding-bottom:70px}
+.promise-section{background:url('../img/Don.jpg') fixed center}
+.promise-section{padding-top:140px;padding-bottom:140px}
+.promise{padding-top:20px;padding-bottom:20px}
+.promise h4{text-align:center;padding-top:40px}
+.promise h1{text-align:center}
+.promise p{text-align:center;padding-bottom:40px;padding-left:40px;padding-right:40px;}
+.promise{border: 6px solid white;
+		border-radius:4px;
+		padding: 5px;
+		}
+.promise1{background-color:rgba(255, 255, 255, 0.85);
+		border:solid rgba(255, 255, 255, 0.85);
+		border-radius:4px;
+		padding: 10px}
+/*End Promise Section */
+
+
+
+/* Start Adress Section */
+.adress{background-color:#778899}
+.adress{padding-bottom:15px}
+.adress h2{color:parpel;text-shadow: 2px 2px 4px #000000}
+.contact{margin-top:40px}
+/* End Adress Section */
+
+
+
+
+/* Start Footer Section */
+.footer
+		{
+			margin-top:-2px;
+			color:#C8C8C8;
+			height:auto;
+			width:100%;
+		}
+		
+.Nurul{background:#A52A2A}
+		
+.con-more
+		{
+			color:#fff; 
+			padding:10px 10px;
+			border-left:3px solid #FCB314;
+			margin:40px 20px;
+		}
+		
+.col-md-4 h6{
+	color:#fff; 
+}
+
+		
+.footer ul li 
+		{
+			letter-spacing:2px;
+			display:block;
+			margin-top:10px;
+			transition:.3s;
+		}
+.footer ul li :hover
+					{
+						color:#FCB314;
+						transition:.3s;
+					}
+.footer ul li a
+				{
+					list-style:none;
+					text-decoration:none;
+					color:#CFCFCF;
+				}
+.twitter:before
+				{
+					content:'\f099';
+					color:#0078D7;
+					font-size:30px;
+					font-family:FontAwesome;
+					transition:.5s;
+					position:relative
+				}
+#foot a .fac:hover{
+	background-color:#3A579D;
+	border-radius: 20px 20px 20px 20px;
+}
+#foot a .twi:hover{
+	background-color:#66ccff;
+	border-radius: 20px 20px 20px 20px;
+}
+#foot a .pin:hover{
+	background-color:#ff0000;
+	border-radius: 20px 20px 20px 20px;
+}
+#foot a .goo:hover{
+	background-color:#0033ff;
+	border-radius: 20px 20px 20px 20px;
+}
+#foot a .you:hover{
+	background-color:#990000;
+	border-radius: 20px 20px 20px 20px;
+}		
+				
+.made{padding-top:20px}		
+.made{padding-bottom:20px}		
+/* End Footer Section */
+
